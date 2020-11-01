@@ -9,6 +9,7 @@ int main(){
 
 	while(fgets(a,1000,fileptr)!=NULL){
 		printf("%s", a);
+		printf("methsara gobbaya methsarage thaththa gobbaya");
 	}
 	
 	fclose(fileptr);
